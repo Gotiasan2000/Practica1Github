@@ -6,8 +6,6 @@ Este es un proyecto de práctica para aprender a usar GitHub. Aquí se incluyen 
 
 ## Contenidos del repositorio
 
-- 📂 **Asignaturas**: 
-  - Implantación de Aplicaciones Web
 - 🛠️ **Prácticas**:
   - Hacer repositorio en remoto.
   - Clone en varias carpetas.
