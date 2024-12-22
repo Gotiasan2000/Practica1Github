@@ -1,0 +1,8 @@
+# Este es un archivo gitignore 
+
+# Ignorar carpetas
+/carpeta_privada/
+
+# Ignorar un archivo en particular
+archivo_secreto.txt
+
