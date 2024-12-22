@@ -7,3 +7,6 @@
   - Crear carpetas con asignaturas y md dentro de cada una.
   - Clear un conflicto y solucionarlo.
   - Hacer los checkout a varios commits.
+
+
+Prueba conflicto B
