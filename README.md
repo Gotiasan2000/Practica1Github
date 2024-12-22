@@ -9,4 +9,4 @@
   - Hacer los checkout a varios commits.
 
 
-Crear conflicto B.
+Crear conflicto A.
