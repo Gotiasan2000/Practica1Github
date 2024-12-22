@@ -1,6 +1,6 @@
 # Practica1Github
 
-- 🛠️ **Prácticas**:
+- 🛠️ **Práctica**:
   - Hacer repositorio en remoto.
   - Clone en varias carpetas.
   - Poner bonito el md.
